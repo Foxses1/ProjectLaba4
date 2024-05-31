@@ -1,9 +1,9 @@
 /**
- * @class Circle
  * @brief Класс Circle представляет круг с центром в заданной точке и заданным радиусом.
+ * @class Circle
  * @details Класс Circle содержит центр типа Point и радиус типа double, а также методы для их получения и изменения.
  */
-class Circle {
+public class Circle {
     private Point center;
     private double radius;
 
